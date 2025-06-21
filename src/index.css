@@ -1,0 +1,27 @@
+/* index.css */
+
+@import "tailwindcss";
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+.bg-logo {
+  background-image: url("/resources/spotify-icon.svg");
+    height: 100%;
+    width: 3%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
+    /* border: 10px; */
+    
+    
+}
+
+
+.home-icon{
+  height: 100%;
+}
