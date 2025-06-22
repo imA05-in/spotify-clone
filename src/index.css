@@ -10,8 +10,8 @@
 
 .bg-logo {
   background-image: url("/resources/spotify-icon.svg");
-    height: 100%;
-    width: 3%;
+    /* height: 100%; */
+    width: 2.2%;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -19,9 +19,4 @@
     /* border: 10px; */
     
     
-}
-
-
-.home-icon{
-  height: 100%;
 }
